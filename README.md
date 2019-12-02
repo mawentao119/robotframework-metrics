@@ -1,4 +1,4 @@
-# Robot Framework Metrics Report
+# Robot Framework Metrics Report.
 
 Creates awesome HTML (dashboard view) report by parsing robotframework output.xml file
 
