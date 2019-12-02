@@ -53,7 +53,7 @@ Creates awesome HTML (dashboard view) report by parsing robotframework output.xm
     ```
     robotmetrics --inputpath ./Result/ --output output1.xml --log log1.html
     ```
-    robotframework-metrics can parse multiple xmls at a time. Following is the command
+    robotframework-metrics can parse multiple xmls at a time. Following is the command, or you can use "*.xml".
     ```
     robotmetrics --inputpath ./Result/ --output "output1.xml,output2.xml" --log log1.html
     ```
