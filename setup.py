@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-
+# test for change
 filename = 'robotframework_metrics/version.py'
 exec(compile(open(filename, 'rb').read(), filename, 'exec'))
 
